@@ -1,14 +1,14 @@
-#christmas-api
+# christmas-api
 
 API that returns whether or not it is Christmas Day
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```
 christmas-api (<port>)
@@ -24,7 +24,7 @@ christmas-api (<port>)
 | -v,--verbose  | Displays responses from clients               | false         |
 | -h,--help     | Provides help                                 | N/A           |
 
-##Example
+## Example
 
 On December 25:
 
@@ -42,6 +42,6 @@ On any other day:
 }
 ```
 
-##Acknowledgements
+## Acknowledgements
 
 Credit for inspiration should be given to [isitchristmas.com](https://isitchristmas.com/) and other similar sites. May this API spawn many copycats.
